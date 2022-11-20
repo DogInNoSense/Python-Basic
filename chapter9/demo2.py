@@ -1,0 +1,11 @@
+s='hello,hello'
+print(s.index('lo'))
+print(s.find('lo'))
+print(s.rindex('lo'))
+print(s.rfind('lo'))
+print(s.index(','))
+print(s[-1])
+#print(s.index('k'))#error
+print(s.find('k'))
+#print(s.rindex('k'))error
+print(s.rfind('k'))
